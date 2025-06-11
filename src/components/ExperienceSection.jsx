@@ -14,17 +14,29 @@ import { theme } from '../theme';
 const ExperienceSection = () => {
   const experiences = [
     {
-      title: "Full Stack Developer",
-      company: "Tech Solutions Inc.",
-      period: "2023 - Present",
-      description: "Developing web applications using React and Node.js"
+      title: "Technical Assistant",
+      company: "PlantsNCrafts",
+      period: "2023 - 2024",
+      
     },
     {
-      title: "Junior Developer",
-      company: "StartUp Co.",
-      period: "2022 - 2023",
-      description: "Built responsive websites and maintained databases"
-    }
+      title: "Web Developer",
+      company: "Klikcamp Inc.",
+      period: "2021 - 2022",
+      description: "Built a static website for their academic platform"
+    },
+    {
+      title: "Technical Team Member",
+      company: "ImperiaTech IT Solutions Inc.",
+      period: "2021 - 2022",
+      description: "On-call remote position that helped them improve their web applications and software programs"
+    },
+    {
+      title: "Worksheet Encoder and Content Editor",
+      company: "PhilEduOnline",
+      period: "2020 - 2021",
+      description: "Contributed in editing contents for their online courses and encoded worksheets for practice exercises"
+    },
   ];
 
   return (
