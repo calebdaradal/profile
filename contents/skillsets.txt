@@ -1,0 +1,11 @@
+C++
+Java
+C#
+ReactJS
+Python
+NodeJS
+React Native (Expo)
+HTML
+CSS
+JavaScript
+MySQL
