@@ -33,7 +33,7 @@ const ProfileHeader = () => {
           }}
         >
           <Avatar
-            src="/contents/DSC_0015.jpg"
+            src="/DSC_0015.jpg"
             alt="Jeramy Caleb S. Daradal"
             sx={{
               width: 200,
@@ -50,7 +50,7 @@ const ProfileHeader = () => {
           </Typography>
           
           <Typography variant="h2" component="h2" sx={{ mb: 3, fontSize: '1.5rem', fontWeight: 400 }}>
-            Full Stack Developer & IT Solutions Specialist
+            Full Stack Web Developer & Software Programmer
           </Typography>
           
           <Stack direction={{ xs: 'column', sm: 'row' }} spacing={2} sx={{ mb: 3 }}>
