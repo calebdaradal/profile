@@ -22,7 +22,7 @@ const SkillsSection = () => {
     {
       title: "Web Technologies",
       icon: <Web />,
-      skills: ["React", "Node.js", "HTML5", "CSS3", "Bootstrap"]
+      skills: ["React", "Node.js", "HTML5", "CSS3", "Bootstrap", "NextJS"]
     },
     {
       title: "Databases",
